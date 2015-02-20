@@ -14,7 +14,6 @@
    <h1>${titulo}</h1>
    <h1>${contenido2}</h1>
    <h1>${titulo2}</h1>
-   <h1>${ }</h1>
-   
+
 </body>
 </html>
